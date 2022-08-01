@@ -1,4 +1,8 @@
 /*Projects*/
+.portfolio {
+    @extend %section;
+}
+
 .portfolio__list {
     display: flex;
     flex-wrap: wrap;

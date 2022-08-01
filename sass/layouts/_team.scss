@@ -11,6 +11,11 @@
     }
 }
 
+.team__list {
+  display: flex;
+  align-items: flex-start;
+}
+
 .team__item {
     background-color: var(--main-light-cl);
     width: 270px;
